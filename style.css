@@ -1,4 +1,7 @@
-  /* HERO SECTION  */
+:root{
+    --blue:#263238;
+}
+/* HERO SECTION  */
 .hero{
     background-color: #F5F7FA;
 }
