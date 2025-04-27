@@ -24,3 +24,8 @@
   .read-more:hover {
     text-decoration: underline 2px solid #188351;
   }
+  /* FOOTER  */
+  .footer{
+    background-color: var(--blue);
+    color: white;
+  }
