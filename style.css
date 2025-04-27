@@ -2,9 +2,24 @@
     --blue:#263238;
     --main-theme:#198754;
 }
+/* NAVBAR */
+.navbar li:hover{
+    text-decoration: underline 4px solid var(--main-theme);
+}
 /* HERO SECTION  */
 .hero{
     background-color: #F5F7FA;
+}
+/* SECTION 2  */
+.sec-two-color {
+    background-color: #F5F7FA;
+    }
+.sec-two-ani:hover {
+animation: pulse 1s;
+}
+
+.sec-three-ani:hover{
+    animation: heartBeat 1s;
 }
  /* SECTION 7 */
 .img-overlay-box {
