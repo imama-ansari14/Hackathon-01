@@ -1,61 +1,61 @@
-:root{
-    --blue:#263238;
-    --main-theme:#198754;
+:root {
+  --blue: #263238;
+  --main-theme: #198754;
 }
 /* NAVBAR */
-.navbar li:hover{
-    text-decoration: underline 4px solid var(--main-theme);
+.navbar li:hover {
+  text-decoration: underline 4px solid var(--main-theme);
 }
 /* HERO SECTION  */
-.hero{
-    background-color: #F5F7FA;
+.hero {
+  background-color: #f5f7fa;
 }
 /* SECTION 2  */
 .sec-two-color {
-    background-color: #F5F7FA;
-    }
+  background-color: #f5f7fa;
+}
 .sec-two-ani:hover {
-animation: pulse 1s;
+  animation: pulse 1s;
 }
 
-.sec-three-ani:hover{
-    animation: heartBeat 1s;
+.sec-three-ani:hover {
+  animation: heartBeat 1s;
 }
- /* SECTION 7 */
+/* SECTION 7 */
 .img-overlay-box {
-    background: #ffffff;
-    border-radius: 10px;
-    padding: 15px;
-    max-width: 180%;
-    margin: auto;
-    position: absolute;
-    bottom: -55px;
-    left: 50%;
-    transform: translateX(-50%);
-    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
-  }
-  .read-more{
-    text-decoration: none;
-  }
-  .read-more:hover {
-    text-decoration: underline 2px solid #188351;
-  }
-  /* FOOTER  */
-  .footer{
-    background-color: var(--blue);
-    color: white;
-  }
-  footer a{
-    color: white;
-    text-decoration: none;
-  }
-  footer a:hover{
-    text-decoration: underline 3px solid var(--main-theme);
-  }
-  .subscribe-box input{
- background-color: #515B60;
- border: none;
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 15px;
+  max-width: 180%;
+  margin: auto;
+  position: absolute;
+  bottom: -55px;
+  left: 50%;
+  transform: translateX(-50%);
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
 }
-.subscribe-box input::placeholder{
+.read-more {
+  text-decoration: none;
+}
+.read-more:hover {
+  text-decoration: underline 2px solid #188351;
+}
+/* FOOTER  */
+.footer {
+  background-color: var(--blue);
   color: white;
-   }
+}
+footer a {
+  color: white;
+  text-decoration: none;
+}
+footer a:hover {
+  text-decoration: underline 3px solid var(--main-theme);
+}
+.subscribe-box input {
+  background-color: #515b60;
+  border: none;
+}
+.subscribe-box input::placeholder {
+  color: white;
+}
