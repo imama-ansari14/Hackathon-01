@@ -29,7 +29,7 @@
 ---
 
 ## 📸 Screenshots
-![Hackathon UI](https://via.placeholder.com/800x400?text=Project+Screenshot)
+![Hackathon UI](image.png)
 
 ---
 ## 🛠️ Tech Stack
